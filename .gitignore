@@ -1,6 +1,8 @@
 **/bin/
 **/obj/
 .idea/
+.gitignore
+.git
 *.user
 *.rsuser
 *.log
