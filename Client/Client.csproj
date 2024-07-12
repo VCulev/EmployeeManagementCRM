@@ -12,6 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\ClientLibrary\ClientLibrary.csproj" />
       <ProjectReference Include="..\MainLibrary\MainLibrary.csproj" />
     </ItemGroup>
 
